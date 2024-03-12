@@ -1,6 +1,12 @@
 {
   "ver":1.0,
   "se":{
+    "3":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_clock.mp3"},
+    "6":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_da.mp3"},
+    "8":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_naki.mp3"},
+    "9":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/act_nuki.mp3"},
+    "10":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_agari.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_yaku.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/act_pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/act_kan.mp3"},
     "29":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/act_chi.mp3"},
