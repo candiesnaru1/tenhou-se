@@ -1,6 +1,7 @@
 {
   "ver":1.0,
   "se":{
+    "1":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_start.mp3"},
     "3":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_clock.mp3"},
     "6":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_da.mp3"},
     "8":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_naki.mp3"},
